@@ -39,3 +39,5 @@ Contributions are welcome. Please fork the repository and submit pull requests w
 
 ## License
 (c) 2024 Matt James and contributors. All rights reserved. Licensed under the MIT License.
+
+Thx
